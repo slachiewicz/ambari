@@ -19,7 +19,7 @@
     "scaffolt": "^0.4.3"
   },
   "devDependencies": {
-    "phantomjs": "^1.9.2",
+    "phantomjs": "^2.1.7",
     "karma": "*",
     "karma-qunit": "*",
     "karma-phantomjs-launcher": "~0.1.2"
